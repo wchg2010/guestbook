@@ -1,4 +1,4 @@
-[200~import java.text.SimpleDateFormat
+import java.text.SimpleDateFormat
 
 def TODAY = (new SimpleDateFormat("yyyyMMddHHmmss")).format(new Date())
 
